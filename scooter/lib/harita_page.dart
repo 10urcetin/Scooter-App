@@ -90,4 +90,6 @@ class _LocationAndMapPageState extends State<LocationAndMapPage> {
       }
     });
   }
+  
 }
+  

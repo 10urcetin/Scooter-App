@@ -40,6 +40,10 @@ dependencies:
   location: ^5.0.0
   map_launcher: ^2.5.0+1
   flutter_map_location_marker: ^6.0.0
+  qr_code_scanner: ^1.0.1
+  permission_handler: ^10.4.3
+  url_launcher: ^6.0.0
+
   
   
   

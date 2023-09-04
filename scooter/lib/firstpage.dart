@@ -15,6 +15,7 @@ class _FirstPageState extends State<FirstPage> {
   int _currentIndex = 0;
 
   final List<Widget> _pages = [
+    //Sayfa Yönlendirmeleri
     QrPage(),
     LocationAndMapPage(), // Harita Page'ini burada ekleyin
     CuzdanPage(),

@@ -5,18 +5,26 @@
 
 ## Ekran Görüntüleri
 
-![Splash Screen](images/ss/1.jpeg)
-![Warning cards](images/ss/2.jpeg)
-![Warning cards](images/ss/3.jpeg)
-![Warning cards](images/ss/4.jpeg)
-![Warning cards](images/ss/5.jpeg)
-![Log In Page](images/ss/6.jpeg)
-![Splash Screen2](images/ss/7.jpeg)
-![QR Page](images/ss/8.jpeg)
-![Qr View](images/ss/9.jpeg)
-![Map-Location Page](images/ss/10.jpeg)
-![Wallet Page](images/ss/11.jpeg)
-![Profile Page](images/ss/12.jpeg)
+## Screenshots
+
+- Splash Screen and Warning Cards
+
+|                   0000                    |                   0001                   |                   0010                   |                       0011                        |
+|:-----------------------------------------:|:----------------------------------------:|:----------------------------------------:|:-------------------------------------------------:|
+| ![](images/ss/1.jpeg) | ![](images/ss/2.jpeg) | ![](images/ss/3.jpeg) | ![](images/ss/4.jpeg) |
+
+
+- Start Page, Log In Page ,Splash and Main Page
+
+|                   0000                    |                   0001                   |                  0010                   |                      0011                      |
+|:-----------------------------------------------:|:-----------------------------------------:|:--------------------------------------:|:------------------------------------------------:|
+| ![](images/ss/5.jpeg) | ![](images/ss/6.jpeg) | ![](images/ss/7.jpeg) | ![](images/ss/8.jpeg) |
+
+- QR and QR View ,Map-Location Page, Wallet And Profile Page
+
+|                   0000                    |                   0001                   |                  0010                   |                      0011                      |
+|:-----------------------------------------------:|:-----------------------------------------:|:--------------------------------------:|:------------------------------------------------:|
+| ![](images/ss/9.jpeg) | ![](images/ss/10.jpeg) | ![](images/ss/11.jpeg) | ![](images/ss/12.jpeg) |
 
 
   

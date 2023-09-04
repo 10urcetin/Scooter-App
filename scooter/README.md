@@ -3,7 +3,7 @@
 Örnek bir scooter kiralama uygulaması
 
 
-## Ekran Görüntüleri
+
 
 ## Screenshots
 
